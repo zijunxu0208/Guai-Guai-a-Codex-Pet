@@ -1,7 +1,0 @@
-{
-  "id": "bluebell-cat",
-  "displayName": "Bluebell",
-  "description": "A fluffy blue-eyed seal-point bicolor cat pet with a faithful dark facial mask, narrow white blaze, pink nose, white chest and paws, slimmer body, and soft plume tail. This deployed variant waves during idle because the Codex runtime did not trigger the dedicated waving row.",
-  "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet-idle-waves.png"
-}
